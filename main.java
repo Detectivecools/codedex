@@ -38,5 +38,6 @@ public class main {
     System.out.println(Math.sqrt(64));    // finds square root
     System.out.println(Math.abs(-4.7));   // turns number to positive
     System.out.println(Math.random());    // gets random number between 0.0 and 1.0
+    System.out.println("wth was my github username");
   }
 }
